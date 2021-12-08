@@ -4,7 +4,7 @@ Requerimentos:
     Java 8
 
 Para executar o arquivo do servidor
-abra o prompt de comando na pasta com o arquivo Servidor.class 
+abra o prompt de comando na pasta com o arquivo Servidor.java 
 e execute "javac -cp . Servidor.java"
 
 caso não tenha os arquivos "index.html" e "404.html", copie-os para junto dos
